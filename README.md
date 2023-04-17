@@ -1,5 +1,5 @@
-DevOps Project Workshop by Valaxy Technologies
-In this project we are going cover
+DevOps Project 
+In this project I am going cover
 
 Git/GitHub Jenkins Maven SonarQube Jfrog Artifactory Ansible Docker Kubernetes Prometheus Grafana
 
