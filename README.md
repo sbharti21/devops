@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # DevOps Project Workshop
+=======
+DevOps Project 
+>>>>>>> 8f67e0bb7cbbba1ffe6c2910c39a53cf5ba4d5b1
 In this project I am going cover
 
 Git/GitHub Jenkins Maven SonarQube Jfrog Artifactory Ansible Docker Kubernetes Prometheus Grafana
